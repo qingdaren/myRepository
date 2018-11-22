@@ -1,0 +1,2 @@
+1.dao上添加@Mapper注解,#{0},#{1};
+2.Autowried换为Resouce
